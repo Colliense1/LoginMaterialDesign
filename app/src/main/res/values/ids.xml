@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="editText_Phonenumber">false</item>
+    <item type="id" name="editText_Password">false</item>
+    <item type="id" name="button_Signin">false</item>
+    <item type="id" name="textView_signup">false</item>
+
+
+</resources>
